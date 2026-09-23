@@ -1,1 +1,1 @@
-# lab-1
+# lab-1 Explore ChatGPT and Gemini through an aviation ground-handling example, comparing their outputs and understanding retrieved versus AI-generated information. The work also covers data safety, verification of aviation facts, reflection, and responsible use of AI.
